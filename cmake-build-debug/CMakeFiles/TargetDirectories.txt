@@ -1,0 +1,3 @@
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/cmake-build-debug/CMakeFiles/Playfair104941.dir
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/cmake-build-debug/CMakeFiles/rebuild_cache.dir

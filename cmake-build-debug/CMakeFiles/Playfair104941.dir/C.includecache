@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/FileHandler.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/Playfair.h
+FileHandler.h
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/FileHandler.h
+stdbool.h
+-
+stdarg.h
+-
+
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/main.c
+stdio.h
+-
+FileHandler.h
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/FileHandler.h
+Playfair.h
+C:/Users/Michele/Downloads/MicheleMartini104941/MicheleMartini104941/Playfair.h
+
